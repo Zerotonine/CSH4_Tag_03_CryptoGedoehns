@@ -1,0 +1,7 @@
+C:\Users\Phil\source\repos\CSH4_Tag_03_CryptoGedöhns\CSH4_Tag_03_CryptoGedöhns\bin\Debug\CSH4_Tag_03_CryptoGedöhns.exe.config
+C:\Users\Phil\source\repos\CSH4_Tag_03_CryptoGedöhns\CSH4_Tag_03_CryptoGedöhns\bin\Debug\CSH4_Tag_03_CryptoGedöhns.exe
+C:\Users\Phil\source\repos\CSH4_Tag_03_CryptoGedöhns\CSH4_Tag_03_CryptoGedöhns\bin\Debug\CSH4_Tag_03_CryptoGedöhns.pdb
+C:\Users\Phil\source\repos\CSH4_Tag_03_CryptoGedöhns\CSH4_Tag_03_CryptoGedöhns\obj\Debug\CSH4_Tag_03_CryptoGedöhns.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\CSH4_Tag_03_CryptoGedöhns\CSH4_Tag_03_CryptoGedöhns\obj\Debug\CSH4_Tag_03_CryptoGedöhns.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CSH4_Tag_03_CryptoGedöhns\CSH4_Tag_03_CryptoGedöhns\obj\Debug\CSH4_Tag_03_CryptoGedöhns.exe
+C:\Users\Phil\source\repos\CSH4_Tag_03_CryptoGedöhns\CSH4_Tag_03_CryptoGedöhns\obj\Debug\CSH4_Tag_03_CryptoGedöhns.pdb
